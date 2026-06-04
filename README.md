@@ -1,9 +1,9 @@
 # LevelDB + SuRF: Range Query Filter Extension
 
 **Course:** CSCI-543, Spring 2026 - University of Southern California
+
 **Team:** Jahnavi Manoj, Dhrish Kumar Suman, Sai Pragna Boyapati
-**Repository:** https://github.com/dhrish-s/leveldb-surf
-**Last Updated:** April 16, 2026
+
 **Status:** Complete implementation with comprehensive benchmarking and documentation
 
 ---
